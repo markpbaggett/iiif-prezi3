@@ -13,7 +13,7 @@ else:
     VERSION = "0.0.0.dev0"
 
 REQUIREMENTS = [
-    "pydantic>=2.11.9,<3.0.0"
+    "pydantic>=2.11.9,<3.0.0",
     "requests >=2.28.0, <3.0.0",
     "Pillow >=9.1.1, <=12.0.0"
 ]
